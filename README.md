@@ -1,6 +1,6 @@
 # HTTP From TCP
 
-A from-scratch HTTP/1.1 server built on raw TCP sockets in Go — no `net/http` server, no frameworks. Built as part of the [Boot.dev](https://boot.dev) course to deeply understand how HTTP works under the hood.
+A from-scratch HTTP/1.1 server built on raw TCP sockets in Go — no `net/http` server, no frameworks. 
 
 ## Overview
 
